@@ -1,0 +1,33 @@
+.navbar-light {
+    background-color: #3b9ad7;
+}
+.app-primary-color {
+    background-color: #3b9ad7 !important;
+}
+.link-whithout-underline:hover,.link-whithout-underline:active {
+    text-decoration: none !important;
+    background-color: #80bdff !important;
+}
+.color-white {
+    color: white !important;
+}
+.lang-hover:hover, .lang-hover:active{
+
+    background-color: #80bdff !important;
+}
+.nav-item:hover, .nav-item:active{
+
+    background-color: #80bdff !important;
+    padding-left: 10px;
+}
+.welcome-section{
+   margin-top: 65px;
+}
+.welcome-text{
+    font-size: 27px !important;
+}
+.footer-section {
+    position:absolute;
+    bottom:0;
+    margin-left: 85%;
+}
